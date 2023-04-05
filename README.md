@@ -9,3 +9,8 @@ Check out the EDA file to get more insights of the data : https://github.com/AGR
 
 # Screenshot of UI
 <!-- ![Screenshot1] -->
+![Application UI](https://github.com/AGRocky/mlproject_gemprediction/blob/main/screenshots/UI.png)
+
+# Screenshot of prediction UI
+
+![Prediction UI](https://github.com/AGRocky/mlproject_gemprediction/blob/main/screenshots/Predicting.png)
